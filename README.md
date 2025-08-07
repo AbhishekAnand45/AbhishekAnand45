@@ -8,7 +8,7 @@
 ---
 
 ### 🌱 What I'm Currently Working On
-- 🔁 Mastering **Data Structures & Algorithms in C++
+- 🔁 Mastering **Data Structures & Algorithms in C++**
 - 🌐 Exploring **Web Development** (HTML, CSS, JS, React)
 - 🎯 Focusing on **Core CS Subjects**: DBMS, OS, OOPs, CN
 - 🔨 Building mini-projects to strengthen problem-solving & resume
